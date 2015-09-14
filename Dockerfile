@@ -1,4 +1,4 @@
-FROM quay.io/ukhomeofficedigital/mysql:v0.2.0
+FROM quay.io/ukhomeofficedigital/mysql:v0.5.1
 
 # Install Open Java 8
 # ===================
