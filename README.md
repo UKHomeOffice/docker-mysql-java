@@ -1,5 +1,7 @@
 # Docker MySQL Java Container
 
+[![Build Status](https://travis-ci.org/UKHomeOffice/docker-mysql-java.svg?branch=master)](https://travis-ci.org/UKHomeOffice/docker-mysql-java)
+
 Docker MySQL Container that also includes Open Java 8 *JRE* install.
 
 ## Getting Started
